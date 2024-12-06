@@ -27,4 +27,4 @@ Sau khi huấn luyện xong, mô hình sẽ được đánh giá trên bộ dữ
 Sau khi huấn luyện, mô hình có thể được sử dụng để nhận diện chữ số viết tay từ người dùng qua giao diện vẽ.
 Giao diện vẽ sử dụng thư viện Tkinter, cho phép người dùng vẽ các chữ số và mô hình sẽ đưa ra dự đoán.
 
-## delevloper : Shinichi Kudo 
+## developer : Shinichi Kudo 
